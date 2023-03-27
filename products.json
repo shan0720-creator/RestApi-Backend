@@ -1,0 +1,31 @@
+[
+    {
+        "name":"iphone",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+
+    {
+        "name":"iphone10",
+        "price": 1154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name":"watch",
+        "price": 204,
+        "featured":true,
+        "company": "apple"
+    },{
+        "name":"Mi 11x Phone",
+        "price": 29999,
+        "featured":false,
+        "company":"mi"
+    },{
+        "name":"Lenovo Ipad",
+        "price": 62000,
+        "featured": false,
+        "company": "lenovo"
+    }
+]
